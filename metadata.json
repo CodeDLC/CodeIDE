@@ -1,0 +1,6 @@
+{
+  "name": "CodeIDE",
+  "description": "Mobile IDE for Minecraft Fabric/Forge Modding with AI Assistance, Cloud Builds, and IntelliJ IDEA workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
